@@ -7,8 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.artifacts
-.logs
+<<<<<<< HEAD
+artifacts/
+=======
+artifacts/
+logs/
+>>>>>>> a27294fcc988ba68c606f4f1877286c516a3841f
 .Python
 build/
 develop-eggs/
