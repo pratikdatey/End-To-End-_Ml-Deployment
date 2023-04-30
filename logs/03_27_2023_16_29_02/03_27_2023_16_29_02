@@ -1,4 +1,0 @@
-[2023-03-27 16:29:06,341] -22 root - INFO - Entered the data ingestion method or component.
-[2023-03-27 16:29:06,554] -25 root - INFO - Data Reading Success
-[2023-03-27 16:29:06,644] -30 root - INFO - Train Test split initiated successfully
-[2023-03-27 16:29:06,880] -35 root - INFO - Ingestion of data is completed
