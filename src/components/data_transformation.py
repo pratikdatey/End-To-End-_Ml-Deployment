@@ -50,6 +50,7 @@ class data_transformation:
 
 
     def initiate_data_transform(self,train_path,test_path):
+        
         try:
             train=pd.read_csv(train_path)
             test=pd.read_csv(test_path)
